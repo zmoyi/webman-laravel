@@ -1,0 +1,13 @@
+{
+  "name": "zmoyi/webman-laravel",
+  "type": "library",
+  "license": "MIT",
+  "description": "Webman plugin zmoyi/webman-laravel",
+  "require": {
+  },
+  "autoload": {
+    "psr-4": {
+      "Zmoyi\\WebmanLaravel\\": "src"
+    }
+  }
+}
