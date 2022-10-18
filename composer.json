@@ -4,6 +4,7 @@
   "license": "MIT",
   "description": "Webman plugin zmoyi/webman-laravel",
   "require": {
+    "laravel/framework": "^9.19"
   },
   "autoload": {
     "psr-4": {
